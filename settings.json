@@ -1,24 +1,15 @@
 {
-    "autoclose": true,
     "autosu": true,
     "clipboard": "terminal",
-    "comment": true,
-    "diff": true,
     "eofnewline": false,
     "fastdirty": true,
-    "ftoptions": true,
     "ignorecase": false,
-    "linter": true,
-    "literate": true,
-    "lsp.autocompleteDetails": false,
-    "lsp.formatOnSave": true,
     "lsp.ignoreMessages": "LS message1 to ignore|LS message 2 to ignore|...",
     "lsp.ignoreTriggerCharacters": "completion,signature",
     "lsp.server": "python=pyls,zig=zls,lua=lua-lsp",
-    "lsp.tabcompletion": true,
     "pluginchannels": [
         "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/channel.json"
     ],
     "pluginrepos": [],
-    "status": true
+    "tabstospaces": true
 }
